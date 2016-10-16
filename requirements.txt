@@ -1,0 +1,6 @@
+spyne
+operator
+requests
+spyne.protocol.http
+spyne.protocol.json
+spyne.server.wsgi
